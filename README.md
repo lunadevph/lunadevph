@@ -13,5 +13,6 @@
 - 👯 I’m looking to collaborate on creating Android ROMS
 - 🤔 I’m looking for help with coding
 - 💬 Ask me about: Tech
-- 📫 How to reach me: By my telegram, or email
+- 📫 How to reach me: By my Telegram, or Email
 - 😄 Pronouns: he/him
+
