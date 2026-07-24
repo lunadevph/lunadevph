@@ -15,4 +15,3 @@
 - 💬 Ask me about: Tech
 - 📫 How to reach me: By my telegram, or email
 - 😄 Pronouns: he/him
-- Farriz is gay
