@@ -10,6 +10,7 @@
     </pre>
   </center>
 </div>
+
 ## Hi there 👋
 
 I'm [@lunadevph](https://github.com/lunadevph), I'm interested in Android development, Linux kernels, AI-powered applications, and Android system internals.
