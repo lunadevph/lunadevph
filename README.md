@@ -1,3 +1,15 @@
+<div>
+  <center>
+    <pre>
+          _                           _                      _
+  / __ \ | | _   _  _ __    __ _   __| |  ___  __   __ _ __  | |__
+ / / _` || || | | || '_ \  / _` | / _` | / _ \ \ \ / /| '_ \ | '_ \
+| | (_| || || |_| || | | || (_| || (_| ||  __/  \ V / | |_) || | | |
+ \ \__,_||_| \__,_||_| |_| \__,_| \__,_| \___|   \_/  | .__/ |_| |_|
+  \____/                                                |_|
+    </pre>
+  </center>
+</div>
 ## Hi there 👋
 
 I'm [@lunadevph](https://github.com/lunadevph), I'm interested in Android development, Linux kernels, AI-powered applications, and Android system internals.
